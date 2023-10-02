@@ -80,6 +80,12 @@
     </div>
     <!-- END CARD -->
 
+    <!-- Footer -->
+    <footer class=" text-white text-center pb-1" style="background-color: #4F709C;">
+      <p class="pt-2">Dibuat<i class="bi bi-heart text-white"></i> oleh <a href="https://www.instagram.com/rahmaaliaputri27/" class="text-white fw-bold">Rahma Aliaputri Efendi</a></p>
+    </footer>
+    <!-- Akhir Footer -->
+
     
 </body>
 </html>
