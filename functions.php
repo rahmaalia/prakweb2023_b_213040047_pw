@@ -1,7 +1,7 @@
 <?php 
 
 // koneksi ke databse
-$conn = mysqli_connect("localhost", "root", "", "prakweb2023b_213040047");
+$conn = mysqli_connect("localhost", "root", "", "prakweb_2023_b_213040047");
 
 
 function query($query){
